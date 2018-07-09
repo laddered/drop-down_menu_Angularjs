@@ -485,31 +485,3 @@ var home = [{
     "homeName": "Test3",
     "potential_status": "Confirmed"
 }];
-
-// function getHomesNames (arr) {
-//     let massHomeName = arr.map(function getNames(obj) {
-//         let result;
-//         for (let key in obj) {
-//             if (key === 'homeName') {
-//                 result = obj[key]
-//             }
-//         }
-//         return result;
-//     });
-//     return massHomeName;
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

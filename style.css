@@ -49,13 +49,3 @@ input[type="text"]:focus , input[type="text"] {
     border-color: #12dc1e;
     box-shadow: none;
 }
-
-
-/*.is-invalidForText , .is-invalidForText:focus , .is-invalidForButton , .is-invalidForButton:focus {*/
-/*color: #212529;*/
-/*background-color: #fff;*/
-/*border-color: #dc3545;*/
-/*outline: 0;*/
-/*box-shadow: none;*/
-/*}*/
-/*}*/
