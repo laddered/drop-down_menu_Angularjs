@@ -25,7 +25,7 @@ app.controller('itemsDropDownController', function($scope, $timeout) {
         $scope.homeNames_id[homeNumber].homeName = txt;
         $scope.dropdawnBtn = txt;
         $scope.saveDisable = true;
-        $timeout($scope.removeAll, 000);
+        $timeout($scope.removeAll, 1000);
         // $timeout.cancel(timer);
     };
     $scope.updCheck = function () {
